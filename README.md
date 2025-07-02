@@ -20,11 +20,12 @@ This project is a simulation of an **autonomous car** navigating a predefined **
 git clone https://github.com/dankostjuk/Sensor-Based-Autonomous-Driving-Model.git
 
 # Build the project
-cd Sensor-Based-Autonomous-Driving-Model
-mkdir build
-cd build
-cmake ..
-make
+cd Sensor-Based-Autonomous-Driving-Model 
+
+mkdir build \n
+cd build \n
+cmake .. \n 
+make \n 
 
 # Run the simulation
 ./bin/main
