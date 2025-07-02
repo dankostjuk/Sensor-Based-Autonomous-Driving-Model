@@ -17,7 +17,7 @@ This project is a simulation of an **autonomous car** navigating a predefined **
 
 
 # Clone the repository
-git clone git@github.com:dankostjuk/Sensor-Based-Autonomous-Driving-Model.git
+git clone https://github.com/dankostjuk/Sensor-Based-Autonomous-Driving-Model.git
 
 # Build the project
 cd Sensor-Based-Autonomous-Driving-Model
