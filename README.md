@@ -1,4 +1,4 @@
-# Sensor-Based Autonomous Driving Model
+# Sensor Based Autonomous Driving Model
 
 This project is a simulation of an **autonomous car** navigating a predefined **race track** using **sensors and AI-based logic**. It is developed in C++ using the **SFML** library for graphics and **CMake** for building the project.
 
