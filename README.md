@@ -17,15 +17,16 @@ This project is a simulation of an **autonomous car** navigating a predefined **
 
 
 # Clone the repository
-git clone https://github.com/dankostjuk/Sensor-Based-Autonomous-Driving-Model.git
+```bash
+# Clone the repository
+git clone hhttps://github.com/dankostjuk/Sensor-Based-Autonomous-Driving-Model.git
 
 # Build the project
-cd Sensor-Based-Autonomous-Driving-Model 
-
-mkdir build \n
-cd build \n
-cmake .. \n 
-make \n 
+cd Sensor-Based-Autonomous-Driving-Model
+mkdir build
+cd build
+cmake ..
+make
 
 # Run the simulation
 ./bin/main
