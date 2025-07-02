@@ -13,7 +13,8 @@ This project is a simulation of an **autonomous car** navigating a predefined **
 
 ---
 
-## Build Instructions
+## Demo
+![Demo of autonomous car](media/demo.gif)
 
 
 # Clone the repository
